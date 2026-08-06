@@ -46,7 +46,6 @@ The `tweet()` function also accepts an optional image path. When an image is pro
 - Basic API integration
 
 ## Example Workflow
-
 ```text
 Python application
        ↓
@@ -57,3 +56,14 @@ Twitter/X API authentication
 Tweet request
        ↓
 Twitter/X
+```
+
+## What I Learned
+
+This project gave me practical experience integrating a Python application with an external API.
+
+It helped me understand API authentication, third-party libraries, functions, conditional logic, and how Python can be used to automate interactions with online services.
+
+## Career Development
+
+This project strengthened my Python and API integration skills, complementing my cybersecurity and networking background. These skills form part of my broader goal of developing expertise in secure network infrastructure and cybersecurity.
